@@ -1,2 +1,3 @@
 # Vagrant-Ansible
-Multiple web servers behind a load balancer using Vagrant Ansible
+This project uses vagrant to create 2 virtual machines and configure loadbalancer on another virtual machine.
+Ansible is used for Provisioning the virtual machines.
